@@ -1,8 +1,3 @@
-import axios from "axios";
-
-axios.defaults.headers.common["x-api-key"] = "live_u1TWICSSUkcJzv6pByH7QgFZznWXGdUwDeJ2n4NWZy3687zpgWXZ10k4ZusAMQIW";
-
-
 const BASE_URL = 'https://api.thecatapi.com/v1';
 const API_KEY = 'live_u1TWICSSUkcJzv6pByH7QgFZznWXGdUwDeJ2n4NWZy3687zpgWXZ10k4ZusAMQIW';
 
